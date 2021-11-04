@@ -1,10 +1,21 @@
-### Olá <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+### Olá <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <br> Bem vindo ao meu GitHub! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br> Eu sou o Eder Henrique Biason de Oliveira. 👨‍💻
+
+##### ◼️ Mais sobre mim:
+
+- 🎓 Cursando Engenharia de Produção - Software - UEM  
+- 📚 Atualmente estudando JavaScript
+- 🔎 Buscando por experiências em desenvolvimento web
+- 📍  Pretendo trabalhar como Desenvolvedor Front-End 
+- :speech_balloon: Me pergunte sobre desenvolvimento web em geral, tentarei ajudar
 
 <div align="left">
   <a href="https://github.com/ederbiason">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ederbiason&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederbiason&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+  
+  ##
+  
+  ##### ◼️ Linguagens que utilizo:
   
 <div style="display: inline_block;">
   <img align="center" alt="Eder-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
