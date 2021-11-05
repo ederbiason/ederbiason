@@ -1,12 +1,12 @@
-### Olá <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <br> Bem vindo ao meu GitHub! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br> Eu sou o Eder Henrique Biason de Oliveira. 👨‍💻
+### Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <br> Welcome to my GitHub! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br> My name is Eder Henrique Biason de Oliveira.👨‍💻🇧🇷
 
-##### ◼️ Mais sobre mim:
+##### ◼️ More about me:
 
-- 🎓 Cursando Engenharia de Produção - Software - UEM  
-- 📚 Atualmente estudando JavaScript
-- 🔎 Buscando por experiências em desenvolvimento web
-- 📍  Pretendo trabalhar como Desenvolvedor Front-End 
-- :speech_balloon: Me pergunte sobre desenvolvimento web em geral, tentarei ajudar
+- 🎓 Studying Production Engineering - Software - UEM  
+- 📚 Currently learning about JavaScript
+- 🔎 Searching for experience in Web Development
+- 📍  I intend work as Frontend Developer 
+- :speech_balloon: Ask me about web development in general, I'll try to help
 
 <div align="left">
   <a href="https://github.com/ederbiason">
@@ -15,7 +15,7 @@
   
   ##
   
-  ##### ◼️ Linguagens que utilizo:
+  ##### ◼️ Languages I use:
   
 <div style="display: inline_block;">
   <img align="center" alt="Eder-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,10 +26,11 @@
   
   ##
   
+  ##### ◼️ Reach me out 👇🏼
 <div> 
   <a href="https://www.youtube.com/channel/UCcVEHIMWzmwd1VhTacJQoCw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ederbiason_/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/zderpbr_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+     <a href="https://www.twitch.tv/zderpbr_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:ederbiason@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eder-biason-b0a7b920b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/eder-biason" target="_blank"><img height="29" width="106" src="https://i.ibb.co/nzzDtV9/Screenshot-1.png" target="_blank"></a>
