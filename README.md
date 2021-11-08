@@ -35,6 +35,16 @@
   <a href="https://www.linkedin.com/in/eder-biason-b0a7b920b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/eder-biason" target="_blank"><img height="29" width="106" src="https://i.ibb.co/nzzDtV9/Screenshot-1.png" target="_blank"></a>
   
+  ##### ◼️Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
+  
   ![Snake animation](https://github.com/ederbiason/ederbiason/blob/output/github-contribution-grid-snake.svg)
   
 </div>
