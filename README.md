@@ -33,7 +33,7 @@
      <a href="https://www.twitch.tv/zderpbr_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:ederbiason@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eder-biason-b0a7b920b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://codepen.io/eder-biason" target="_blank"><img height="29" width="106" src="https://i.ibb.co/nzzDtV9/Screenshot-1.png" target="_blank"></a>
+  <a href="https://codepen.io/eder-biason" target="_blank"><img height="29" width="106" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   
   ##### ◼️Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
