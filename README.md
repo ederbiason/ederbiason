@@ -27,6 +27,7 @@
 
 + Living in Arapongas, Brazil 🇧🇷 Cidade dos passarinhos
 - 20 years old (nobody believes that...)
++ Studying Software Engineering
 ! React and Node.js programmer and always studying some technology
 # Interested in Python, C#, Java stuff and how cookies are made
 ```
