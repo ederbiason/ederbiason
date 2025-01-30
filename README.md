@@ -21,15 +21,15 @@
 </div>
 
 ### **🧐 About:**
-
+I'm a front-end developer, writting code since 2020. I love to code and solve deep problems using cutting-edge tech. My main focus is on front- and back-end development creating applications that help to solve any problem you might have. More about me below:
 ```diff
 @@I'm a lover of technology and NFL@@
 
 + Living in Arapongas, Brazil 🇧🇷 Cidade dos passarinhos
-- 20 years old (nobody believes that...)
+- 21 years old (nobody believes that...)
 + Studying Software Engineering
-! React and Node.js programmer and always studying some technology
-# Interested in Python, C#, Java stuff and how cookies are made
+! React and Node.js programmer and always studying some new technology
+# Interested in Python, Cybersec, Java stuff and how cookies are made
 ```
 
 ### 🛠 **My Tools:**
@@ -43,25 +43,22 @@
 ![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
 ![Dart](https://img.shields.io/badge/dart-C.svg?style=for-the-badge&logo=dart&color=152030)
 ![Flutter](https://img.shields.io/badge/flutter-C.svg?style=for-the-badge&logo=flutter&color=0468D7)
-
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=1F4361) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss)
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/npm-6DA55F?style=for-the-badge&logo=npm&logoColor=white&color=000)
-![Markdown](https://img.shields.io/badge/markdown-C.svg?style=for-the-badge&logo=markdown&color=000)
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  
 ![Figma](https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 </div>
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ederbiason&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ederbiason&theme=neon-dark&hide_border=true&background=DD272700" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ederbiason&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
 </div>
   
 ### 🤭 **Fun Fact:** 
