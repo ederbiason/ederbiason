@@ -51,8 +51,18 @@ I'm a front-end developer, writting code since 2020. I love to code and solve de
 </div>
 
 ## 📁 Github Status
-![Eder's github stats](https://github-readme-stats.vercel.app/api?username=ederbiason&theme=react)
-![Eder's github streak](https://streak-stats.demolab.com/?user=ederbiason&theme=react)
+<div align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=ederbiason&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true"
+      alt="Profile statistics"
+      height="160em"/></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img
+      src="https://github-readme-streak-stats-six-ivory.vercel.app/?user=ederbiason&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=61dafb&sideNums=ffffff&currStreakNum=ffffff&hide_border=true"
+      alt="Github streak"
+      height="160em"/></a>
+</div>
   
 ## 🤭 **Fun Fact:** 
 ### I once solved the world's oldest question with a single line of JavaScript
