@@ -1,26 +1,19 @@
-![hello-eder](https://github.com/ederbiason/ederbiason/assets/82395795/8916ff46-38c6-4bec-9dd3-dfa08ecd18c2)
+<!-- ![hello-eder](https://github.com/ederbiason/ederbiason/assets/82395795/8916ff46-38c6-4bec-9dd3-dfa08ecd18c2) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&width=1500&height=100&lines=Welcome+to+my+profile+%3Ccoders+%2F%3E%2C+I'm+Eder+Biason!)](https://git.io/typing-svg)
 
 <p align="center">
   <a target="_blank" href="https://twitter.com/EderBiason">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://www.instagram.com/ederbiason_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a target="_blank" href="mailto:ederbiason.eh@hotmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Email-dc262d?style=for-the-badge&logo=mail&logoColor=white">
   </a>  
   <a target="_blank" href="https://www.linkedin.com/in/eder-biason-b0a7b920b/">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
   </a>
-<!--     <a target="_blank" href=""> -->
-<!--     <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"/> -->
-  </a>
 </p>
 
-<div align="center">
-<a href="https://github/ederbiason"><img alt="twitter" src="https://img.shields.io/github/followers/ederbiason?color=181717&logo=github&style=for-the-badge&label=github" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ederbiason&style=for-the-badge&color=32325D"/>
-</div>
-
-### **🧐 About:**
+## **🧐 About:**
 I'm a front-end developer, writting code since 2020. I love to code and solve deep problems using cutting-edge tech. My main focus is on front- and back-end development creating applications that help to solve any problem you might have. More about me below:
 ```diff
 @@I'm a lover of technology and NFL@@
@@ -32,7 +25,7 @@ I'm a front-end developer, writting code since 2020. I love to code and solve de
 # Interested in Python, Cybersec, Java stuff and how cookies are made
 ```
 
-### 🛠 **My Tools:**
+## 🛠 **My Tools:**
 
 <div align="center">
   
@@ -57,11 +50,11 @@ I'm a front-end developer, writting code since 2020. I love to code and solve de
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 </div>
 
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ederbiason&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
-</div>
+## 📁 Github Status
+![Eder's github stats](https://github-readme-stats.vercel.app/api?username=ederbiason&theme=react)
+![Eder's github streak](https://streak-stats.demolab.com/?user=ederbiason&theme=react)
   
-### 🤭 **Fun Fact:** 
+## 🤭 **Fun Fact:** 
 ### I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
 
@@ -71,3 +64,22 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
+
+<hr>
+
+<div align="center">
+  <p>
+    🌟 Thanks for your time 🌟
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ederbiason&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
+</div>
+
+<div align="center">
+  <a href="https://github/ederbiason">
+    <img alt="twitter" src="https://img.shields.io/github/followers/ederbiason?color=181717&logo=github&style=for-the-badge&label=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ederbiason&style=for-the-badge&color=32325D"/>
+</div>
