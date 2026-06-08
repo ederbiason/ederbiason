@@ -91,27 +91,24 @@ const eder = {
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ederbiason&show_icons=true&theme=react&hide_border=true&count_private=true"
-    height="160em"
-    alt="Eder's GitHub stats"
-  />
-  <img
-    src="https://github-readme-streak-stats-six-ivory.vercel.app/?user=ederbiason&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    height="160em"
-    alt="Eder's GitHub streak"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederbiason&layout=compact&theme=react&hide_border=true&langs_count=8"
-    height="150em"
-    alt="Top languages"
-  />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com?user=ederbiason&theme=react&hide_border=true"
+        height="160em"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=ederbiason&layout=compact&theme=react&hide_border=true&langs_count=8"
+        height="160em"
+        alt="Top languages"
+      />
+    </td>
+   </tr>
+</table>
 
 ---
 
