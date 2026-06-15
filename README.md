@@ -95,7 +95,7 @@ const eder = {
   <tr>
     <td>
       <img
-        src="https://github-stats-extended.vercel.app/api/?username=ederbiason&layout=compact&theme=react&hide_border=true"
+        src="https://streak-stats.demolab.com?user=ederbiason&theme=react&hide_border=true"
         height="160em"
         alt="GitHub Streak"
       />
