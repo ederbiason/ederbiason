@@ -12,7 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%26+Node.js+Enthusiast;Software+Engineer+%F0%9F%8E%93;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://www.linkedin.com/in/eder-biason-b0a7b920b/" target="_blank">
+  <a href="https://www.linkedin.com/in/ederbiason/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ederbiason.eh@hotmail.com">
